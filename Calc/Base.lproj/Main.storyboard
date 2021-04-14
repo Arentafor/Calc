@@ -183,6 +183,7 @@
                             </stackView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3ph-Ca-9jH">
                                 <rect key="frame" x="0.0" y="45" width="414" height="60"/>
+                                <color key="backgroundColor" red="0.24744077919999999" green="0.39414886970000002" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="6Kh-SJ-cV5"/>
                                 </constraints>
